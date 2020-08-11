@@ -1,0 +1,3383 @@
+{
+  "intents": [
+    {
+      "intent": "Scared",
+      "examples": [
+        {
+          "text": "There are positive cases near my home,I am scared if I will also get infected"
+        },
+        {
+          "text": "There are positive cases in my apartment,I am really scared if I will also get infected"
+        },
+        {
+          "text": "I am scared"
+        },
+        {
+          "text": "I am scared if I will get infected"
+        },
+        {
+          "text": "I am scared if I will contract the virus"
+        }
+      ],
+      "description": "Scared of Covid"
+    },
+    {
+      "intent": "Home_Maker_Worried_about_family",
+      "examples": [
+        {
+          "text": "I am worried about my daughter's heath"
+        },
+        {
+          "text": "I am worried about my family.It is a very hard time for all of us."
+        },
+        {
+          "text": "I am worried about my husband.I have not seen him from last 2 months because of lock down"
+        },
+        {
+          "text": "I am worried about my daughter.I have not seen my daughter from March"
+        },
+        {
+          "text": "I am worried about my son.I have not seen him from last 2 months because of lock down"
+        },
+        {
+          "text": "I am worried about my parents living alone in hometown"
+        },
+        {
+          "text": "I am worried about my husband's health"
+        },
+        {
+          "text": "I am worried about my daughter.I have not seen my daughter from last 2 months because of lock down"
+        },
+        {
+          "text": "I am worried about my son.I have not seen my son from March"
+        },
+        {
+          "text": "I am worried about my son's heath"
+        },
+        {
+          "text": "Safety of my family is bothering me"
+        },
+        {
+          "text": "My husband is a Government personnel , and he is working day and night to fight against corona"
+        }
+      ],
+      "description": "home maker worried about family health"
+    },
+    {
+      "intent": "Employee_problem",
+      "examples": [
+        {
+          "text": "I lost my job"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Thanks",
+      "examples": [
+        {
+          "text": "thanks, now i feel better"
+        },
+        {
+          "text": "Thank You Tranquil"
+        },
+        {
+          "text": "no thanks"
+        },
+        {
+          "text": "thank you, now i feel better"
+        },
+        {
+          "text": "Thanks Tranquil"
+        },
+        {
+          "text": "Many thanks"
+        },
+        {
+          "text": "Okay Thanks"
+        },
+        {
+          "text": "Thanks for being there"
+        },
+        {
+          "text": "Thanks"
+        },
+        {
+          "text": "Thank you very much"
+        },
+        {
+          "text": "Thanks a lot"
+        },
+        {
+          "text": "Thank You"
+        },
+        {
+          "text": "Thank You ! That made me feel much lighter"
+        },
+        {
+          "text": "Thank You ! That made me feel much better"
+        },
+        {
+          "text": "Thanks a lot ! That made me feel lighter"
+        },
+        {
+          "text": "Thanks a lot ! That made me feel much better"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Business_Owner",
+      "examples": [
+        {
+          "text": "Retailer"
+        },
+        {
+          "text": "Investor"
+        },
+        {
+          "text": "I am an Entrepreneur"
+        },
+        {
+          "text": "Entrepreneur"
+        },
+        {
+          "text": "Business person"
+        },
+        {
+          "text": "I am a Retailer"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "No_Masks_PPEs",
+      "examples": [
+        {
+          "text": "I dont have sufficient body suits"
+        },
+        {
+          "text": "I dont have sufficient sanitizers"
+        },
+        {
+          "text": "I don't have enough protection"
+        },
+        {
+          "text": "I am short of sanitizers"
+        },
+        {
+          "text": "I am short of body suits"
+        },
+        {
+          "text": "I dont have enough body suits"
+        },
+        {
+          "text": "I dont have body suits"
+        },
+        {
+          "text": "I dont have sufficient masks"
+        },
+        {
+          "text": "I dont get PPEs"
+        },
+        {
+          "text": "I dont have sufficient protection from Covid"
+        },
+        {
+          "text": "I am short of masks"
+        },
+        {
+          "text": "i don't have enough masks"
+        },
+        {
+          "text": "I dont have enough sanitizers"
+        },
+        {
+          "text": "I dont get enough masks"
+        }
+      ],
+      "description": "Masks or PPEs not available"
+    },
+    {
+      "intent": "employee",
+      "examples": [
+        {
+          "text": "worker"
+        },
+        {
+          "text": "employee"
+        },
+        {
+          "text": "employee of a private firm"
+        },
+        {
+          "text": "iam an employee"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Proud",
+      "examples": [
+        {
+          "text": "i get to treat patients"
+        },
+        {
+          "text": "i get to save people"
+        },
+        {
+          "text": "I am happy that I am saving lives"
+        },
+        {
+          "text": "I am proud of my work"
+        },
+        {
+          "text": "I am proud to be saving lives"
+        },
+        {
+          "text": "I am happy that I am able to save lives"
+        },
+        {
+          "text": "I am happy that I am given this chance to save lives"
+        },
+        {
+          "text": "I am glad that I am saving lives"
+        },
+        {
+          "text": "i get to serve people"
+        },
+        {
+          "text": "i save lives"
+        },
+        {
+          "text": "i get to save lives"
+        },
+        {
+          "text": "i am proud that I get to save lives"
+        },
+        {
+          "text": "i am proud that I save lives"
+        },
+        {
+          "text": "i am happy that I save lives"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Home_Maker_Self_Care_Tips",
+      "examples": [
+        {
+          "text": "Self care tips during lock down"
+        },
+        {
+          "text": "what can i do for self care"
+        },
+        {
+          "text": "self care during lock down"
+        },
+        {
+          "text": "can u suggest me some self care tips"
+        }
+      ],
+      "description": "House Wife self care tips"
+    },
+    {
+      "intent": "BP_yes",
+      "examples": [
+        {
+          "text": "How to motivate employees during this lockdown"
+        },
+        {
+          "text": "How to motivate workers ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Home_Maker_Husband_health",
+      "examples": [
+        {
+          "text": "im scared for my husband. He is a doctor he treats corona patients everyday"
+        },
+        {
+          "text": "My husband is working in Police department and he stays out on roads checking people and vehicles.What if he gets infected by Corona Virus."
+        },
+        {
+          "text": "My husband is a Police officer and he stays out on roads checking people and vehicles.What if he gets infected by Corona Virus."
+        },
+        {
+          "text": "im worried about my husband. He is a doctor he treats corona patients everyday"
+        }
+      ],
+      "description": "husband is front-line Corona Warrior "
+    },
+    {
+      "intent": "negative",
+      "examples": [
+        {
+          "text": "no, i cant accept this"
+        },
+        {
+          "text": "no way"
+        },
+        {
+          "text": "no"
+        },
+        {
+          "text": "No I cannot do this"
+        },
+        {
+          "text": "No I cant do it"
+        },
+        {
+          "text": "of course not"
+        },
+        {
+          "text": "nothing"
+        },
+        {
+          "text": "not really"
+        },
+        {
+          "text": "not at all"
+        },
+        {
+          "text": "nope"
+        },
+        {
+          "text": "i dont agree"
+        },
+        {
+          "text": "i disagree"
+        },
+        {
+          "text": "i cant digest this"
+        },
+        {
+          "text": "i cant accept this"
+        },
+        {
+          "text": "no it was not helpful"
+        },
+        {
+          "text": "no use of telling anyone"
+        },
+        {
+          "text": "yes thats fine but still I cant tolerate this"
+        },
+        {
+          "text": "I can not do this"
+        },
+        {
+          "text": "i dont think so"
+        }
+      ],
+      "description": "no it was of no use"
+    },
+    {
+      "intent": "Home_Maker",
+      "examples": [
+        {
+          "text": "I am feeling Happy"
+        },
+        {
+          "text": "housewife"
+        },
+        {
+          "text": "I am a House Wife"
+        },
+        {
+          "text": "Home Maker"
+        },
+        {
+          "text": "House Wife"
+        },
+        {
+          "text": "I am a Home Maker"
+        }
+      ],
+      "description": "Home Maker,House Wife"
+    },
+    {
+      "intent": "student_problem",
+      "examples": [
+        {
+          "text": "i miss my college friends"
+        },
+        {
+          "text": "i missed my laptop and course materials in college"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "HW_Away_Family",
+      "examples": [
+        {
+          "text": "I can't see my family as I am quarantined"
+        },
+        {
+          "text": "I am away from my family"
+        },
+        {
+          "text": "I have to be quarantined and away from my family"
+        },
+        {
+          "text": "I cant be with my family due to quarantine"
+        },
+        {
+          "text": "I can't see my family due to quarantine"
+        },
+        {
+          "text": "I am away from my family due to quarantine"
+        },
+        {
+          "text": "I am away from my family as I am quarantined"
+        },
+        {
+          "text": "I am away from my wife due to quarantine"
+        },
+        {
+          "text": "I am away from my wife as I am quarantined"
+        },
+        {
+          "text": "I am away from my husband due to quarantine"
+        },
+        {
+          "text": "I can't see my children as I am quarantined"
+        },
+        {
+          "text": "I can't see my parents as I am quarantined"
+        },
+        {
+          "text": "I am away from my husband as I am quarantined"
+        },
+        {
+          "text": "I can't see my parents due to quarantine"
+        },
+        {
+          "text": "I can't see my children due to quarantine"
+        },
+        {
+          "text": "I can't see my wife due as I am quarantined"
+        },
+        {
+          "text": "I can't see my wife due to quarantine"
+        },
+        {
+          "text": "I can't see my husband as I am quarantined"
+        },
+        {
+          "text": "I can't see my husband due to quarantine"
+        },
+        {
+          "text": "I can't see my child"
+        },
+        {
+          "text": "I cannot see my child"
+        }
+      ],
+      "description": "Health Worker is away from family"
+    },
+    {
+      "intent": "Employee_Positive",
+      "examples": [
+        {
+          "text": "ok can i get the link of those job portal sites"
+        },
+        {
+          "text": "Sounds good,tell me more about it"
+        },
+        {
+          "text": "ok will have a look at it"
+        },
+        {
+          "text": "Im very Happy"
+        },
+        {
+          "text": "i was just going through the page"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "BP_ext",
+      "examples": [
+        {
+          "text": "i was just going through the page"
+        },
+        {
+          "text": "suggest any skills"
+        },
+        {
+          "text": "Want to boost my skills"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Employee_Negative",
+      "examples": [
+        {
+          "text": "I have got my pay deducted drastically and not able too look after my family needs"
+        },
+        {
+          "text": "Ok fine, Thanks for Your help"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Health_Worker",
+      "examples": [
+        {
+          "text": "doctor"
+        },
+        {
+          "text": "therapist"
+        },
+        {
+          "text": "ward boy"
+        },
+        {
+          "text": "bio hazard handler"
+        },
+        {
+          "text": "medical waste handler"
+        },
+        {
+          "text": "chemist"
+        },
+        {
+          "text": "pharmacist"
+        },
+        {
+          "text": "pathologoist"
+        },
+        {
+          "text": "lab technician"
+        },
+        {
+          "text": "nurse"
+        },
+        {
+          "text": "i am a doctor"
+        }
+      ],
+      "description": "Health Care worker - Doctor, Nurse, Pathologist etc."
+    },
+    {
+      "intent": "HW_Problems",
+      "examples": [
+        {
+          "text": "I am mentally, physically and emotionally tired"
+        },
+        {
+          "text": "I cant take this anymore"
+        },
+        {
+          "text": "This pandemic has shattered me"
+        },
+        {
+          "text": "im sick of people dying"
+        },
+        {
+          "text": "I have been tested positive"
+        },
+        {
+          "text": "I have been infected with covid"
+        },
+        {
+          "text": "I hardly get any sleep"
+        },
+        {
+          "text": "I am tired of seeing so many patients infected with this disease"
+        },
+        {
+          "text": "Covid has shattered me"
+        },
+        {
+          "text": "I am mentally tired"
+        },
+        {
+          "text": "I am sick of seeing you many cases of covid everyday"
+        },
+        {
+          "text": "so many patients to treat everyday"
+        },
+        {
+          "text": "I am numb of seeing so many deaths around me"
+        },
+        {
+          "text": "many people are dying around me"
+        },
+        {
+          "text": "I am sick of seeing so many deaths around me"
+        },
+        {
+          "text": "I am tired of seeing so much of this disease around me"
+        },
+        {
+          "text": "I am done with this pandemic"
+        },
+        {
+          "text": "I am numb of seeing dead bodies around me everyday"
+        },
+        {
+          "text": "I cant see any more deaths around me"
+        }
+      ],
+      "description": "Problems of Health Worker"
+    },
+    {
+      "intent": "positive",
+      "examples": [
+        {
+          "text": "yes i told"
+        },
+        {
+          "text": "Yes I will do it"
+        },
+        {
+          "text": "Yes I will"
+        },
+        {
+          "text": "yes, that's right"
+        },
+        {
+          "text": "yes, of course"
+        },
+        {
+          "text": "yeah, that's right"
+        },
+        {
+          "text": "yes I agree"
+        },
+        {
+          "text": "yes thats right"
+        },
+        {
+          "text": "yes i know"
+        },
+        {
+          "text": "Yeah I told"
+        },
+        {
+          "text": "yeah"
+        },
+        {
+          "text": "yes"
+        },
+        {
+          "text": "that's right"
+        },
+        {
+          "text": "yup"
+        },
+        {
+          "text": "yep"
+        },
+        {
+          "text": "true"
+        },
+        {
+          "text": "of course"
+        },
+        {
+          "text": "yes i will remember"
+        },
+        {
+          "text": "yeah i will remember"
+        },
+        {
+          "text": "yes I understand"
+        },
+        {
+          "text": "Okay"
+        },
+        {
+          "text": "Yes i can do it for myself"
+        },
+        {
+          "text": "yeah i can do it for myself"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "student_positive",
+      "examples": [
+        {
+          "text": "Ok sure,will give him a call and thank you."
+        },
+        {
+          "text": "no,i dont feel comfortable to share about this to them."
+        },
+        {
+          "text": "yeah but im a bit depressed and constantly getting stressed, because of this problem im not able to sleep peacefully"
+        },
+        {
+          "text": "they told not to bother about it,once college reopens after lockdown,things will turn normal"
+        },
+        {
+          "text": "they don't seem to understand what i feel"
+        },
+        {
+          "text": "yes i did"
+        },
+        {
+          "text": "i was just going through the page"
+        },
+        {
+          "text": "i had called"
+        },
+        {
+          "text": "yeah i called them"
+        },
+        {
+          "text": "Sure I will give a try"
+        },
+        {
+          "text": "fine,can i get the links of those job portals"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Bperson_pos",
+      "examples": [
+        {
+          "text": "okay"
+        },
+        {
+          "text": "I Appreciate your assist"
+        },
+        {
+          "text": "Got it"
+        },
+        {
+          "text": "I will try on it"
+        },
+        {
+          "text": "i will try"
+        },
+        {
+          "text": "I will see how it works"
+        },
+        {
+          "text": "I understood your point I will try on it"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Bperson_neg",
+      "examples": [
+        {
+          "text": "I am feeling stressed about the situation and due to loss of clients"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "greeting",
+      "examples": [
+        {
+          "text": "hola"
+        },
+        {
+          "text": "good morning"
+        },
+        {
+          "text": "good evening"
+        },
+        {
+          "text": "hello"
+        },
+        {
+          "text": "hi"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "sad",
+      "examples": [
+        {
+          "text": "depressed"
+        },
+        {
+          "text": "I feel sad"
+        },
+        {
+          "text": "Anxiety"
+        },
+        {
+          "text": "I am depressed"
+        },
+        {
+          "text": "I am Unhappy"
+        },
+        {
+          "text": "very sad"
+        },
+        {
+          "text": "Im feeling low from past few days"
+        },
+        {
+          "text": "but I really cant take this anymore"
+        },
+        {
+          "text": "but I really cant take this"
+        },
+        {
+          "text": "but this is really disheartening"
+        },
+        {
+          "text": "im very sad"
+        },
+        {
+          "text": "i am still feeling low"
+        },
+        {
+          "text": "i am feeling low"
+        },
+        {
+          "text": "i am feeling depressed"
+        },
+        {
+          "text": "i am feeling stressed"
+        },
+        {
+          "text": "im feeling sad"
+        },
+        {
+          "text": "sad"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Home_Maker_Domestic_Violence",
+      "examples": [
+        {
+          "text": "My husband is an alcoholic and abusive"
+        },
+        {
+          "text": "My husband is torturing me everyday after drinking"
+        },
+        {
+          "text": "my husband treats me like his slave"
+        },
+        {
+          "text": "My husband's abusive behavior is affecting me mentally."
+        },
+        {
+          "text": "when my husband gets drunk he hits me"
+        }
+      ],
+      "description": "Home maker - Domestic Violence Victim"
+    },
+    {
+      "intent": "happy",
+      "examples": [
+        {
+          "text": "fine"
+        },
+        {
+          "text": "i am feeling great"
+        },
+        {
+          "text": "Day was good"
+        },
+        {
+          "text": "im fine"
+        },
+        {
+          "text": "im feeling happy"
+        },
+        {
+          "text": "im happy"
+        },
+        {
+          "text": "i am doing good"
+        },
+        {
+          "text": "good"
+        },
+        {
+          "text": "happy"
+        },
+        {
+          "text": "Fantastic"
+        },
+        {
+          "text": "great"
+        },
+        {
+          "text": "im doing good"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "student",
+      "examples": [
+        {
+          "text": "iam a student"
+        },
+        {
+          "text": "undergradute"
+        },
+        {
+          "text": "graduate"
+        },
+        {
+          "text": "student"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "student_negative",
+      "examples": [
+        {
+          "text": "no i did not call"
+        },
+        {
+          "text": "Ok i will give a try."
+        },
+        {
+          "text": "im feeling sad"
+        },
+        {
+          "text": "No I didn't feel to"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Business_problems",
+      "examples": [
+        {
+          "text": "Scattered Workforce"
+        },
+        {
+          "text": "Operational Downtime"
+        },
+        {
+          "text": "Business is under loss and not able to pay workers"
+        },
+        {
+          "text": "revenue of business falls drastically"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Home_Maker_Time_Utilization",
+      "examples": [
+        {
+          "text": "Suggest productive activities to do during lock down"
+        },
+        {
+          "text": "suggest ways to pass time during lockdown"
+        },
+        {
+          "text": "What to do during lockdown?"
+        },
+        {
+          "text": "What to do during lock down period"
+        },
+        {
+          "text": "How to pass time during Lock down?"
+        },
+        {
+          "text": "How to use lock down time productively?"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Input_User_Name",
+      "values": [],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "home maker did not tell anyone - she will fight?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Try to talk about it to your trustworthy family member."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "I am here to support you.\nYou are alone enough to get yourself out of this.\nDo not worry.\nThere are 20% women in India who are tolerating the domestic violence inside four walls, but I am proud of you that you shared your feelings with me.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "You do not have to be scared of anything.It is your life and you have the right to live it peacefully with a right partner.\nYou deserve respect and care, if you are not getting it you should move on in your life.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "You can contact the following helpline numbers for woman safety agencies and later can file a case against him and those who have tortured you.\n1. **Human Rights Law Network runs Madhyam Helpline and provide Legal Services\t(011) 24316922/ 24324503**\n2. **Lawyers Collective Womens Rights Initiative LC WRI runs a pro-bono legal aid cell for domestic violence cases\t(011) 24373993/ 24372923**\n3. **Central Social Welfare Board -Police Helpline\t1091/ 1291, (011) 23317004**\n\n\n**Do not step back!**\n**You can do it for yourself?** "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1590213864784",
+      "conditions": "#negative",
+      "dialog_node": "node_1_1590230240318",
+      "previous_sibling": "node_1_1590227448970"
+    },
+    {
+      "type": "standard",
+      "title": "if home maker talked about it to someone",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Did you get any type of help from that person?\n"
+              },
+              {
+                "text": "Was that helpful?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_5_1590213864784",
+      "conditions": "#positive",
+      "dialog_node": "node_1_1590227448970"
+    },
+    {
+      "type": "standard",
+      "title": "HW_positive1",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "It was great talking to you. Thank you for your service ! Stay safe ! \nAlways remember this, \n**\"The best way to find yourself is to lose yourself in the service of other.\"** -  Mahatma Gandhi"
+              },
+              {
+                "text": "We are really proud of you ! Thank You. \nAlways remember this, \n**\"We make a living by what we get, but we make a life by what we give.\"** - Winston Churchill"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1590177163773",
+      "conditions": "#happy || #positive || #Thanks",
+      "dialog_node": "node_6_1590213254767",
+      "previous_sibling": "node_7_1590181664714"
+    },
+    {
+      "type": "standard",
+      "title": "HW_Still_Negative1",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I understand that you are under a lot of pressure and pain, please take some time off and relax your mind, and practice meditation and think about why you chose this profession. It is one of the most noble professions and you get to save many lives which everyone can't do. You are stronger than you think. This is a hard phase but this will pass soon. Remember that you are making this world a better place to live for people you treat."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1590177163773",
+      "conditions": "#negative || #sad",
+      "dialog_node": "node_7_1590181664714"
+    },
+    {
+      "type": "standard",
+      "title": "Till_End_ThenThanks",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "It was great talking to you. Thank you for your service ! Stay safe ! Always remember this, \n*\"The best way to find yourself is to lose yourself in the service of other.\"* -  Mahatma Gandhi"
+              },
+              {
+                "text": "We are really proud of you ! Thank You. \nAlways remember this, \n*\"We make a living by what we get, but we make a life by what we give.\"* - Winston Churchill"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1590213052213",
+      "conditions": "#Thanks || #happy",
+      "dialog_node": "node_5_1590246931487"
+    },
+    {
+      "type": "standard",
+      "title": "HW_Scared_Thanks ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "It was great talking to you. Thank you for your service ! Stay safe ! "
+              },
+              {
+                "text": "We are really proud of you ! Thank You. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_7_1590215873651",
+      "conditions": "#Thanks || #positive",
+      "dialog_node": "node_1_1590217608634"
+    },
+    {
+      "type": "standard",
+      "title": "Link no query",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Very well then ! Make sure you feel free to call or contact us, we are always ready to help you😊"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1590225365142",
+      "conditions": "#Employee_Negative",
+      "dialog_node": "node_9_1590254838795",
+      "previous_sibling": "node_9_1590253569731"
+    },
+    {
+      "type": "standard",
+      "title": "Link_query",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ok sure "
+              },
+              {
+                "text": "LinkedIn - https://in.linkedin.com/\nmeetup - https://www.meetup.com/\nAngel List- https://angel.co/\nNaukri - https://www.naukri.com/"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_9_1590225365142",
+      "conditions": "#Employee_Positive",
+      "dialog_node": "node_9_1590253569731"
+    },
+    {
+      "type": "standard",
+      "title": "Home maker Thanks",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "😊"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1590218240827",
+      "conditions": "#Thanks",
+      "dialog_node": "node_2_1590218757753"
+    },
+    {
+      "type": "standard",
+      "title": "BP_conclude",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sure!!...be free to contact us anytime.\n\"Don't Lose Hope you never know what Tomorrow will bring\"\nSTAY POSITIVE"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1590228008097",
+      "conditions": "#Bperson_pos",
+      "dialog_node": "node_9_1590229697433"
+    },
+    {
+      "type": "standard",
+      "title": "BPerson_problem",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I undestand that it has become challenging for most businesses to keep their financial wheels turning during the lockdown period due to less revenue churn and the general uncertainty in the  financial environment.\n\ncheck out these link for stratergies:\n=>https://economictimes.indiatimes.com/small-biz/hr-leadership/leadership/survival-strategies-for-businesses-during-covid-19-lockdown/articleshow/75371157.cms\n\n=>https://www.dezshira.com/landing/coronavirus-updates"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1590167174267",
+      "conditions": "#Business_problems",
+      "dialog_node": "node_8_1590168877569"
+    },
+    {
+      "type": "standard",
+      "title": "HW_Away_Negative2",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I think it would be better if you can talk to someone who has a solution for you, please consider taking help from our counselors, as they are very experienced in providing a solution to what you are undergoing. Reach out to them at **+918025497777** any time of the day, and any day of the week."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1590213631095",
+      "conditions": "#sad || #negative",
+      "dialog_node": "node_8_1590214515468",
+      "previous_sibling": "node_1_1590214384560"
+    },
+    {
+      "type": "standard",
+      "title": "HW_Away_Finally_Thanks",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "We are really proud of you ! Thank You. \nAlways remember this, \n**\"The pain you undergo today is for a brighter and better tomorrow.\"**"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_2_1590213631095",
+      "conditions": "#positive || #happy || #Thanks",
+      "dialog_node": "node_1_1590214384560"
+    },
+    {
+      "type": "standard",
+      "title": "problem_negative",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I insist you to call one of your friends and share your feelings, and I'm sure you will feel better, if the problem persists you can come to me anytime."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1590166485511",
+      "conditions": "#student_negative",
+      "dialog_node": "node_8_1590171138981",
+      "previous_sibling": "node_9_1590171128554"
+    },
+    {
+      "type": "standard",
+      "title": "problem_postivie",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "That's good. Did you tell your them that are you feeling low?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1590166485511",
+      "conditions": "#student_positive",
+      "dialog_node": "node_9_1590171128554"
+    },
+    {
+      "type": "standard",
+      "title": "child2_positive",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "May I know what did they tell you ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1590172014953",
+      "conditions": "#student_positive",
+      "dialog_node": "node_10_1590172575230"
+    },
+    {
+      "type": "standard",
+      "title": "My_problems",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Did you call your friends ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1590165686580",
+      "conditions": "#student_problem",
+      "dialog_node": "node_3_1590166485511"
+    },
+    {
+      "type": "standard",
+      "title": "Bp_conc",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Never give up Today is hard Tomorrow is Worse but Day After tomorrow will be SUNSHINE\nThanks for your consideration...Have a Nice day!! STAY SAFE \n**STAY STRONG\nSTAY FOCUSED\nSTAY POSITIVE**"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1590230795593",
+      "conditions": "#Bperson_pos",
+      "dialog_node": "node_5_1590238006044"
+    },
+    {
+      "type": "standard",
+      "title": "student_happy_conclusion",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sure You can!\nStay Safe and have a great day !\nPlease feel free to come to us if you feel low anytime, we are always there for you."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1590154514919",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "#student_positive",
+      "dialog_node": "node_7_1590216113784"
+    },
+    {
+      "type": "standard",
+      "title": "Self Care Tips",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Good!\nTime to focus on self-care -\n1.(https://www.gaiam.com/blogs/discover/5-self-care-tips-for-the-busy-working-female)\n2.(https://www.womenshealthmag.com/health/a24886599/self-care-routine-tips/)\n3.(https://tinybuddha.com/blog/45-simple-self-care-practices-for-a-healthy-mind-body-and-soul/)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1590171823845",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_2_1590178042858"
+      },
+      "conditions": "#Home_Maker_Self_Care_Tips",
+      "dialog_node": "node_3_1590224210802",
+      "previous_sibling": "node_9_1590171979119"
+    },
+    {
+      "type": "standard",
+      "title": "Time Utilization",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Check out the following links for utilizing your time productively during lockdown - \n  \n1. (https://www.shethepeople.tv/blog/self-care-lockdown-tips-feel-good)\n\n2. (https://theorganisedhousewife.com.au/a-housewifes-guide-to/thriving-at-home/14-tips-to-help-you-have-a-productive-day/)\n\n3. (https://pairedlife.com/relationships/Fighting-Boredoom-for-Housewife-without-Kids)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "What else I can do for you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1590171823845",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_2_1590178042858"
+      },
+      "conditions": "#Home_Maker_Time_Utilization",
+      "dialog_node": "node_9_1590171979119"
+    },
+    {
+      "type": "standard",
+      "title": "HW_Away_Negative",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, I can see that you miss them very much. But please look at it in a bigger perspective, as it is safe for your family and also other people who can contract the virus if you are a carrier unknowingly."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1590201765659",
+      "conditions": "#sad || #negative",
+      "dialog_node": "node_9_1590213501228",
+      "previous_sibling": "node_3_1590202161535"
+    },
+    {
+      "type": "standard",
+      "title": "HW_Away_Thanks",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "It was great talking to you. Thank you for your service ! Stay safe ! \nAlways remember this, \n**\"On the other side of this pain today, is Glory, Happiness and Health.\"**"
+              },
+              {
+                "text": "We are really proud of you ! Thank You and stay safe ! \nAlways remember this, \n**\"On the other side of this pain today, is Glory, Happiness and Health.\"**"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1590201765659",
+      "conditions": "#Thanks || #positive",
+      "dialog_node": "node_3_1590202161535"
+    },
+    {
+      "type": "standard",
+      "title": "Home Maker Sad",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "What happened to you?"
+              },
+              {
+                "text": "what is going on in your mind?"
+              },
+              {
+                "text": "You can share with me."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1590166972160",
+      "conditions": "#sad",
+      "dialog_node": "node_1_1590172525613",
+      "previous_sibling": "node_7_1590171823845"
+    },
+    {
+      "type": "standard",
+      "title": "Home Maker Scared",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You can share with me."
+              },
+              {
+                "text": "What are you scared of?"
+              },
+              {
+                "text": "You can tell me."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1590166972160",
+      "conditions": "#Scared",
+      "dialog_node": "node_5_1590209627699",
+      "previous_sibling": "node_1_1590172525613"
+    },
+    {
+      "type": "standard",
+      "title": "Home Maker Happy",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Great!!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "  How can I make your day even better?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1590166972160",
+      "conditions": "#happy",
+      "dialog_node": "node_7_1590171823845"
+    },
+    {
+      "type": "standard",
+      "title": "Health worker identify",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Welcome !\nHow do you feel today ?"
+              },
+              {
+                "text": "Welcome !\nHow are you doing ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_1_1590173151364",
+      "conditions": "#Health_Worker",
+      "dialog_node": "node_8_1590157693764",
+      "previous_sibling": "node_3_1590154571629"
+    },
+    {
+      "type": "standard",
+      "title": "Home Maker identity",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Oh, Good to see you here , HOME ENGINEER. "
+              },
+              {
+                "text": "Oh, Good to see you here , HOME MAKER. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_1_1590173151364",
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "#Home_Maker",
+      "dialog_node": "node_9_1590166325328",
+      "previous_sibling": "node_3_1590166371119"
+    },
+    {
+      "type": "standard",
+      "title": "student identify",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "welcome student, How are you feeling?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1590173151364",
+      "conditions": "#student",
+      "dialog_node": "node_2_1590154414866",
+      "previous_sibling": "node_8_1590157693764"
+    },
+    {
+      "type": "standard",
+      "title": "Business owner identity",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "WELCOME.....!! How is your day??"
+              },
+              {
+                "text": "HELLO ..How are u doing??"
+              },
+              {
+                "text": "How do you feel?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1590173151364",
+      "conditions": "#Business_Owner",
+      "dialog_node": "node_3_1590166371119",
+      "previous_sibling": "node_2_1590154414866"
+    },
+    {
+      "type": "standard",
+      "title": "employee identify",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Welcome "
+              },
+              {
+                "text": "How are you feeling?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_1_1590173151364",
+      "conditions": "#employee",
+      "dialog_node": "node_3_1590154571629"
+    },
+    {
+      "type": "standard",
+      "title": "HW_Happy_Yes",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Thank You for your service. We are proud of you !\nStay Safe and have a great day !\nPlease feel free to come to us if you feel low anytime, we are always there for you."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_7_1590164657105",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "#positive || #happy",
+      "dialog_node": "node_7_1590172534602",
+      "previous_sibling": "node_10_1590164841824"
+    },
+    {
+      "type": "standard",
+      "title": "HW_First_Thing_NotProud",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "What makes you say that ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1590164657105",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_5_1590157891782"
+      },
+      "conditions": "#negative || #sad || #sad",
+      "dialog_node": "node_2_1590222119902",
+      "previous_sibling": "node_7_1590172534602"
+    },
+    {
+      "type": "standard",
+      "title": "HW_Proud",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "That's really amazing !"
+              },
+              {
+                "text": "That's wonderful !"
+              },
+              {
+                "text": "Yes ! You are a real Hero !"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1590164657105",
+      "conditions": "#Proud || #happy",
+      "dialog_node": "node_10_1590164841824"
+    },
+    {
+      "type": "standard",
+      "title": "employee_Pay_1",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I understand you completely and would say during pandemics it is a bit common for people get a pay cut to manage business.Why don't you try for some alternate income."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1590173293737",
+      "conditions": "#Employee_Negative",
+      "dialog_node": "node_3_1590224466924"
+    },
+    {
+      "type": "standard",
+      "title": "Employee alternate link",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I suggest you to create a profile in LinkedIn,Meetup,Angel,Naukri,etc.\n \nI assure you these sites will definitely aid you"
+              },
+              {
+                "text": "If you feel any difficulties you can contact our Excecutive Officer Mr.Martin Ceaser he will guide you to face your problem."
+              },
+              {
+                "text": "Name:Mr.Martin ceaser"
+              },
+              {
+                "text": "PhNo:+91-9876543210"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_3_1590224466924",
+      "conditions": "#Employee_Positive",
+      "dialog_node": "node_9_1590225365142"
+    },
+    {
+      "type": "standard",
+      "title": "HW_Proud_Yes",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Thank you for your service. We are proud of you !\nHave a great day and stay safe !"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1590164841824",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "#positive || #happy || #Thanks",
+      "dialog_node": "node_10_1590168354060"
+    },
+    {
+      "type": "standard",
+      "title": "home maker will not do anything",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You cannot let anyone hurt you like this.\nDo not let others control you.You have told me about it , now you need little more courage to speak up against it and to stop it.\nYou get only one life to live.\n\n**You will fight for your freedom and respect**"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Start Loving yourself first!!"
+              },
+              {
+                "text": "You can and you will do it, I know."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_1_1590230240318",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_2_1590178042858"
+      },
+      "conditions": "#negative",
+      "dialog_node": "node_3_1590230764460",
+      "previous_sibling": "node_6_1590230445504"
+    },
+    {
+      "type": "standard",
+      "title": "home maker will fight for it",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your journey against Domestic violence starts from now...\nAlways remember \n**“The enemy doesn’t stand a chance when the victim decides to survive.” ** — Rae Smith"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "**GOOD LUCK!!**"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1590230240318",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_2_1590178042858"
+      },
+      "conditions": "#positive",
+      "dialog_node": "node_6_1590230445504"
+    },
+    {
+      "type": "standard",
+      "title": "HW_Problems_Still_Negative",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Please remember that what you are going through today is just a bad phase and it will pass by very soon, and on the other side of this suffering is happiness, and glory."
+              },
+              {
+                "text": "Please try to start meditating. It will really help you with your stress, depression and anxiety.  Look for inner peace in this time of distress."
+              },
+              {
+                "text": "Believe in yourself, that you are  stronger than what you think. This too shall pass and you will come out of this phase much stronger than before."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_10_1590175408712",
+      "conditions": "#negative || #sad",
+      "dialog_node": "node_7_1590177163773",
+      "previous_sibling": "node_2_1590176926813"
+    },
+    {
+      "type": "standard",
+      "title": "HW_Tired_Sick_Almost_Fine",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I hope that you have understood your value in the world right now. I also hope that you will be stronger from now and take care of yourself."
+              },
+              {
+                "text": "You have been gifted with this noble profession of saving lives and treating people, so please remember why you chose this profession. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1590175408712",
+      "conditions": "#positive",
+      "dialog_node": "node_2_1590176926813"
+    },
+    {
+      "type": "standard",
+      "title": "Home Maker suffering Domestic Violence",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Did you tell anyone?"
+              },
+              {
+                "text": "Did you talk to anyone?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1590172525613",
+      "conditions": "#Home_Maker_Domestic_Violence",
+      "dialog_node": "node_5_1590213864784",
+      "previous_sibling": "node_4_1590174882157"
+    },
+    {
+      "type": "standard",
+      "title": "Home Maker Worried about Family",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I know that we all are having such a hard time with this,but worrying does not empty tomorrow of its sorrow, it empties today of its strength.\nStay at Home and take good care of you and family. \n\n"
+              },
+              {
+                "text": "I can completely understand your state of mind,but are a 'Home Maker' if you will dwell in problems,your family will worry more.\nAlways remember ,\"Tough times never last, but tough people do.\"\nYOU are a TOUGH Woman!!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          },
+          {
+            "values": [
+              {
+                "text": "Stay Positive and this, too, shall pass away.\nOkay?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1590172525613",
+      "conditions": "#Home_Maker_Worried_about_family",
+      "dialog_node": "node_4_1590174882157"
+    },
+    {
+      "type": "standard",
+      "title": "Profession_Node",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "What is your profession ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "",
+      "dialog_node": "node_1_1590173151364"
+    },
+    {
+      "type": "standard",
+      "title": "employee_sad_Problem",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Whats bothering you ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1590154571629",
+      "conditions": "#sad",
+      "dialog_node": "node_7_1590173293737",
+      "previous_sibling": "node_6_1590154644838"
+    },
+    {
+      "type": "standard",
+      "title": "employee_happy",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "So,how can i help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1590154571629",
+      "conditions": "#happy",
+      "dialog_node": "node_6_1590154644838"
+    },
+    {
+      "type": "standard",
+      "title": "HW_Scared",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I understand what you are going through. Please stay strong, and take sufficient care of yourself as you are in close contact with the patients. But people need you as no one else can replace you in doing your work. You have the chance to save many lives, and please take necessary precautions and stay motivated."
+              },
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1590157891782",
+      "conditions": "#Scared",
+      "dialog_node": "node_1_1590202820718",
+      "previous_sibling": "node_5_1590201765659"
+    },
+    {
+      "type": "standard",
+      "title": "HW_Away_From_Family",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I understand that, and agree that it is quite difficult. But at this time, you need to be strong and think more practically about the situation around rather than being emotional. Staying away from them is for their safety, as you are in close contact with patients. Look at it in a positive perspective that You really love them, and this is also a way of expressing your love and care for them. When all this chaos has passed, you will be able to meet them and stay happy and healthy with them. So think of it as a sacrifice you are making today for a better tomorrow."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_5_1590157891782",
+      "conditions": "#HW_Away_Family",
+      "dialog_node": "node_5_1590201765659",
+      "previous_sibling": "node_10_1590175408712"
+    },
+    {
+      "type": "standard",
+      "title": "HW_Tired_Sick_Covid",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "That is really saddening to hear. But this is the time you need to be strong and YOU are a hero, and you are an inspiration to many people. Please be strong and take care of yourself. You are needed to save this world."
+              },
+              {
+                "text": "I can understand what you are going through. But you are like God to the people who are infected and you have a chance to save their lives, and ultimately, that is the noble motto of a health care professional, to save as many lives as possible in a situation like this. So please, take care of yourself and stay strong. "
+              },
+              {
+                "text": "You are an ultimate hero and you need to take care of yourself and people around you. You are next to god for them and you have a chance to fight for a noble cause and save people's lives, which is possible only by you."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_5_1590157891782",
+      "conditions": "#HW_Problems || #sad",
+      "dialog_node": "node_10_1590175408712"
+    },
+    {
+      "type": "standard",
+      "title": "no",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You cannot let anyone hurt you like this.\nDo not let others control you.You have told me about it , now you need little more courage to speak up against it and to stop it.\nYou get only one life to live.\n\n**You will fight for your freedom and respect**"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1590228642935",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_2_1590178042858"
+      },
+      "conditions": "#negative",
+      "dialog_node": "node_8_1590231368872",
+      "previous_sibling": "node_3_1590231273527"
+    },
+    {
+      "type": "standard",
+      "title": "yes",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your journey against Domestic violence starts from now...\nAlways remember \n\n**“The enemy doesn’t stand a chance when the victim decides to survive.” ** — Rae Smith"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1590228642935",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_2_1590178042858"
+      },
+      "conditions": "#positive",
+      "dialog_node": "node_3_1590231273527"
+    },
+    {
+      "type": "standard",
+      "title": "HW_Scared_PPE",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Please contact this helpline number and tell them your location, and they will make sure that sufficient PPEs are delivered to you immediately. **1800-120-444-222.** They operate from 8am to 8pm. Also, at this point of time, with the situation around, there is a scarcity in masks and PPEs, so please don't depend on the PPEs provided by the hospitals alone, and purchase them individually too for your protection. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1590202820718",
+      "conditions": "#No_Masks_PPEs",
+      "dialog_node": "node_1_1590214813127",
+      "previous_sibling": "node_9_1590214702569"
+    },
+    {
+      "type": "standard",
+      "title": "HW_Scared_Negative",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I think it would be better if you can talk to someone who has a solution for you, please consider taking help from our counselors, as they are very experienced in providing a solution to what you are undergoing. Reach out to them at **+918025497777** any time of the day, and any day of the week."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1590202820718",
+      "conditions": "#negative || #sad",
+      "dialog_node": "node_9_1590214702569",
+      "previous_sibling": "node_1_1590203934619"
+    },
+    {
+      "type": "standard",
+      "title": "HW_Scared_Thanks",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "It was great talking to you. Thank you for your service ! Stay safe ! \nAlways remember this, \n**\"The best way to find yourself is to lose yourself in the service of other.\"** -  Mahatma Gandhi"
+              },
+              {
+                "text": "We are really proud of you ! Thank You. \nAlways remember this, \n**\"We make a living by what we get, but we make a life by what we give.\"* - Winston Churchill"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_1_1590202820718",
+      "conditions": "#Thanks || #positive",
+      "dialog_node": "node_1_1590203934619"
+    },
+    {
+      "type": "standard",
+      "title": "home maker has no symptoms just scared",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Take good care of yourself, eat healthy diet to make your immune system strong.Sanitize hands and your home also regularly.\n**Stay at Home!**"
+              },
+              {
+                "text": "Constant monitoring of news and social media feeds can quickly turn compulsive and counterproductive—fueling anxiety rather than easing it.\nI would suggest you to limit your media time and spend time in doing what you love."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1590217551004",
+      "conditions": "#negative",
+      "dialog_node": "node_8_1590218240827",
+      "previous_sibling": "node_9_1590218117017"
+    },
+    {
+      "type": "standard",
+      "title": "home maker has symptoms",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "**Do not panic!**\nIf you find any Covid-19 symptoms in you or any family member, immediately contact your nearby doctor.\n\n*Central Helpline Number for corona-virus: - +91-11-23978046*\n\nYou can also check the following links for helpline numbers and more information -\n1.(https://www.mohfw.gov.in/pdf/coronvavirushelplinenumber.pdf)\n2.(https://www.mohfw.gov.in/)\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Corona is spreading fast but many people are also recovering. Corona virus patients can be treated and recovered.\nAccording to World Health Organization , Mortality Rate of Covid-19 is 3.4%.\n**Stay Positive!**\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "**Everything will be fine.**"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1590217551004",
+      "conditions": "#positive",
+      "dialog_node": "node_9_1590218117017"
+    },
+    {
+      "type": "standard",
+      "title": "HW_Fine",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "It was great talking to you. Thank you for your service ! Stay safe ! \nAlways remember this, \n**\"The best way to find yourself is to lose yourself in the service of other.\"** -  Mahatma Gandhi"
+              },
+              {
+                "text": "We are really proud of you ! Thank You. \nAlways remember this, \n**\"We make a living by what we get, but we make a life by what we give.\"** - Winston Churchill"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_2_1590176926813",
+      "conditions": "#Thanks || #positive",
+      "dialog_node": "node_7_1590179748750"
+    },
+    {
+      "type": "standard",
+      "title": "BusinessPerson_Sad",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Are u alright!! How can I help you?"
+              },
+              {
+                "text": "Whats the problem?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1590166371119",
+      "conditions": "#sad",
+      "dialog_node": "node_3_1590167174267",
+      "previous_sibling": "node_1_1590166503738"
+    },
+    {
+      "type": "standard",
+      "title": "BusinessPerson_Happy",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Wonderful ! how can I help??"
+              },
+              {
+                "text": "Pleased to hear that !!What are u thinking about?"
+              },
+              {
+                "text": "Great !! how can I help??"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_3_1590166371119",
+      "conditions": "#happy",
+      "dialog_node": "node_1_1590166503738"
+    },
+    {
+      "type": "standard",
+      "title": "child5_positive",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You need not worry about this. You can contact Mr.John Martin anytime, he is a renowned counselor and it is pretty normal to feel the way you're feeling now, don't worry we will take care of you. please feel free to contact him on *+91-1234567890* he will guide you."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1590174640448",
+      "conditions": "#student_positive",
+      "dialog_node": "node_7_1590175285410"
+    },
+    {
+      "type": "standard",
+      "title": "HW_No_Till_the_End",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I can see that you are really stressed and please consider taking help from our counselors, as they are very experienced in  providing a solution to what you are undergoing. Reach out to them at *+918025497777* any time of the day, and any day of the week."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1590181664714",
+      "conditions": "#negative || #sad",
+      "dialog_node": "node_8_1590213052213",
+      "previous_sibling": "node_7_1590207288470"
+    },
+    {
+      "type": "standard",
+      "title": "HW_Thanks_Finally",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "It was great talking to you. Thank you for your service ! Stay safe ! \nAlways remember this, \n**\"The best way to find yourself is to lose yourself in the service of other.\"** -  Mahatma Gandhi"
+              },
+              {
+                "text": "We are really proud of you ! Thank You. \nAlways remember this, \n**\"We make a living by what we get, but we make a life by what we give.\"** - Winston Churchill"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1590181664714",
+      "conditions": "#happy || #Thanks",
+      "dialog_node": "node_7_1590207288470"
+    },
+    {
+      "type": "standard",
+      "title": "HW_Negative2_Thanks",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "It was great talking to you. Thank you for your service ! Stay safe ! \nAlways remember this, \n*\"On the other side of this pain today, is Glory, Happiness and Health.\"*"
+              },
+              {
+                "text": "We are really proud of you ! Thank You and stay safe ! \nAlways remember this, \n**\"On the other side of this pain today, is Glory, Happiness and Health.\"**"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1590214515468",
+      "conditions": "#Thanks || #positive",
+      "dialog_node": "node_1_1590247370127"
+    },
+    {
+      "type": "standard",
+      "title": "HealthWorker_Happy",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "That's great ! Hope you are safe and healthy. Tell me what is the first thing that comes to your mind, about being a health care professional."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_8_1590157693764",
+      "conditions": "#happy",
+      "dialog_node": "node_7_1590164657105",
+      "previous_sibling": "node_5_1590157891782"
+    },
+    {
+      "type": "standard",
+      "title": "Health_worker_sad",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "What is bothering you ?"
+              },
+              {
+                "text": "What has been troubling you ?"
+              },
+              {
+                "text": "Please tell me what has been bothering you."
+              },
+              {
+                "text": "What is the matter ?"
+              },
+              {
+                "text": "What is the issue ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1590157693764",
+      "conditions": "#sad || #negative",
+      "dialog_node": "node_5_1590157891782"
+    },
+    {
+      "type": "standard",
+      "title": "BPerson_Disagree",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I suggest you to contact Mr.Robert for efficient business planning  and financial tips to survive during lockdown.\nPh no:- +91-9876543210"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1590211943819",
+      "conditions": "#negative",
+      "dialog_node": "node_8_1590228008097",
+      "previous_sibling": "node_6_1590218043758"
+    },
+    {
+      "type": "standard",
+      "title": "Bperson_agreed",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "okay... Good!!\nAlways remember great things never come from comfort zones. Try your best to utilize this time productively and efficiently.\nDon't be be stressed, Tough situations build strong people...!\nDo you have any other issue?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1590211943819",
+      "conditions": "#Bperson_pos",
+      "dialog_node": "node_6_1590218043758"
+    },
+    {
+      "type": "standard",
+      "title": "conclusion_positive",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Make sure to feel free to contact us, we are always ready to help you😊"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1590175285410",
+      "conditions": "#student_positive",
+      "dialog_node": "node_1_1590176443625"
+    },
+    {
+      "type": "standard",
+      "title": "it was helpful",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Oh...good to know that someone is helping you there.\nAnytime you feel alone,helpless and need support you can talk to me.\nI am always here to help you and whatever way possible. \nTake Care! : )"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1590227448970",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_2_1590178042858"
+      },
+      "conditions": "#positive",
+      "dialog_node": "node_1_1590232186128",
+      "previous_sibling": "node_2_1590228642935"
+    },
+    {
+      "type": "standard",
+      "title": "NO help from anyone",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I am here to support you.\nYou are alone enough to get yourself out of this.\nDo not worry.\nThere are many women in India who are tolerating the domestic violence inside four walls, but I am **PROUD** of you that you shared your feelings with me.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "You do not have to be scared of anything.It is your life and you have the right to live it peacefully with a right partner.\nYou deserve respect and care, if you are not getting it you should move on in your life.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "You can contact the following helpline numbers for woman safety agencies and later can file a case against him and those who have tortured you.\n1. **Human Rights Law Network runs Madhyam Helpline and provide Legal Services\t(011) 24316922/ 24324503**\n2. **Lawyers Collective Womens Rights Initiative LC WRI runs a pro-bono legal aid cell for domestic violence cases\t(011) 24373993/ 24372923**\n3. **Central Social Welfare Board -Police Helpline\t1091/ 1291, (011) 23317004**\n\n\n**Do not step back!**\n **You can do it for youself ?**"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1590227448970",
+      "conditions": "#negative",
+      "dialog_node": "node_2_1590228642935"
+    },
+    {
+      "type": "standard",
+      "title": "Link Denied",
+      "parent": "node_9_1590253569731",
+      "dialog_node": "node_3_1590226157706",
+      "previous_sibling": "node_7_1590226154025"
+    },
+    {
+      "type": "standard",
+      "title": "Link accepted",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Very well then ! Make sure you feel free to call or contact us, we are always ready to help you😊"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1590253569731",
+      "conditions": "#Employee_Positive",
+      "dialog_node": "node_7_1590226154025"
+    },
+    {
+      "type": "standard",
+      "title": "positive",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "That's Nice ! So what did they tell you ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1590171128554",
+      "conditions": "#student_positive",
+      "dialog_node": "node_8_1590172014953"
+    },
+    {
+      "type": "standard",
+      "title": "about her husband (doc,police)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I completely understand what you are going through, in this hard time your husband is not with you but he is with all of us ,helping those in need and serving his nation when we need him the most.\nWe **SALUTE** him and all other front line warriors for their selfless contribution in this fight.\n\n**Just make sure that he is taking all the precautionary measures when he is on duty.\nRemind him regularly to have a healthy diet for a good immune system.**\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1590209627699",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_2_1590178042858"
+      },
+      "conditions": "#Home_Maker_Husband_health",
+      "dialog_node": "node_7_1590221670308",
+      "previous_sibling": "node_7_1590217551004"
+    },
+    {
+      "type": "standard",
+      "title": "about her health",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Are you all right, do you find any corona symptoms in you or someone around you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1590209627699",
+      "conditions": "#Scared",
+      "dialog_node": "node_7_1590217551004"
+    },
+    {
+      "type": "standard",
+      "title": "Thank you Response",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "😄"
+              },
+              {
+                "text": "😊"
+              },
+              {
+                "text": "😃"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_4_1590174882157",
+      "conditions": "#Thanks || #positive",
+      "dialog_node": "node_2_1590178042858"
+    },
+    {
+      "type": "standard",
+      "title": "Employee_happy_Conclusion",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sure You can!\nStay Safe and have a great day !\nPlease feel free to come to us if you feel low anytime, we are always there for you."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1590154644838",
+      "conditions": "#Employee_Positive",
+      "dialog_node": "node_9_1590224175466"
+    },
+    {
+      "type": "standard",
+      "title": "BPerson_not_satisfied",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I understand that  we all are having such a hard time during this pandemic but the comeback is always stronger than the setback. When you think of stopping, think about why you started it......!!\nEmpathize and use strategy to keep your existing clients alive. This is the time when understanding the gravity of spirit matters. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1590168877569",
+      "conditions": "#Bperson_neg",
+      "dialog_node": "node_2_1590211943819",
+      "previous_sibling": "node_1_1590209826822"
+    },
+    {
+      "type": "standard",
+      "title": "BPerson_satisfied",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Thank you for your service....Stay Safe!! COME BACK ANYTIME!!\n\"Success is not final; failure is not fatal: It is the courage to continue that counts.\"\n"
+              },
+              {
+                "text": "Never give up Today is hard Tomorrow is Worse but Day After tomorrow will be SUNSHINE\nThanks for your consideration...Have a Nice day!! STAY SAFE "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_8_1590168877569",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "#Bperson_pos || #Thanks",
+      "dialog_node": "node_1_1590209826822"
+    },
+    {
+      "type": "standard",
+      "title": "HW_Scared_PPE_Positive",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "It was great talking to you. Thank you for your service ! Stay safe ! "
+              },
+              {
+                "text": "We are really proud of you ! Thank You."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_1_1590214813127",
+      "conditions": "#Thanks || #positive",
+      "dialog_node": "node_8_1590216035179",
+      "previous_sibling": "node_7_1590215873651"
+    },
+    {
+      "type": "standard",
+      "title": "HW_Scared_PPE_Negative",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I think it would be better if you can talk to someone who has a solution for you, please consider taking help from our counselors, as they are very experienced in providing a solution to what you are undergoing. Reach out to them at *+918025497777* any time of the day, and any day of the week."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1590214813127",
+      "conditions": "#negative || #sad || #Scared",
+      "dialog_node": "node_7_1590215873651"
+    },
+    {
+      "type": "standard",
+      "title": "child3_positive",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Looks like your friends are right, and I assure you that once the lockdown is lifted and your college reopens, and things turn back to normal and you will definitely feel better."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1590172575230",
+      "conditions": "#student_positive",
+      "dialog_node": "node_1_1590173251115"
+    },
+    {
+      "type": "standard",
+      "title": "Home maker do not worry about husband",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Good,\nIf you stay **STRONG** at home, he will be **STRONGER** on the front line."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1590221670308",
+      "conditions": "#positive",
+      "dialog_node": "node_8_1590222754496"
+    },
+    {
+      "type": "standard",
+      "title": "Link Accept Conclusion",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sure!\nStay Safe and have a great day !\nPlease feel free to come to us if you feel low anytime, we are always there for you."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1590226154025",
+      "conditions": "#Employee_Positive",
+      "dialog_node": "node_1_1590229285310"
+    },
+    {
+      "type": "standard",
+      "title": "child4_positive",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I can understand what you feel. Did you convey this to your parents ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1590173251115",
+      "conditions": "#student_positive",
+      "dialog_node": "node_5_1590174640448"
+    },
+    {
+      "type": "standard",
+      "title": "HW_Away_Finally_Thanks",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "We are really proud of you ! Thank You.\nAlways remember this, \n**\"The pain you undergo today is for a brighter and better tomorrow.\"**"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_2_1590213613790",
+      "conditions": "#positive || #happy || #Thanks",
+      "dialog_node": "node_1_1590214479768"
+    },
+    {
+      "type": "standard",
+      "title": "call_conclusion",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "That sounds good, If the problem persists you can contact me anytime. Take care and Stay Safe !"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1590171138981",
+      "conditions": "#student_positive",
+      "dialog_node": "node_3_1590214345612"
+    },
+    {
+      "type": "standard",
+      "title": "BP_Suggest",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Want to boost your leadership skill :\nhttps://www.forbes.com/sites/nigeldavies/2020/04/07/how-to-be-a-strong-remote-leader-during-lockdown/#7ff60e8f18e2\n\nWant to try something new or learn a new skill during this lockdown😃\nhttps://www.independent.co.uk/extras/indybest/house-garden/skills-learn-lockdown-cook-photography-calligraphy-coronavirus-things-to-do-a9436521.html\n\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1590166503738",
+      "conditions": "#BP_ext",
+      "dialog_node": "node_2_1590230795593"
+    },
+    {
+      "type": "standard",
+      "title": "BP_concluion",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "It was nice talking to you...\nSuccess is not final, failure is not fatal: It is the courage to continue that counts\nNever give up, Today is hard,  Tomorrow is Worse but Day After tomorrow will be SUNSHINE\nThanks for your consideration.......come back anytime!!😊\n*STAY SAFE*\n*STAY STRONG*\n*STAY POSITIVE*"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1590226880949",
+      "conditions": "#Bperson_pos || #Thanks",
+      "dialog_node": "node_1_1590227599505"
+    },
+    {
+      "type": "standard",
+      "title": "HW_Away_Negative1",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I can understand that you miss them very much. But due to the situation around staying away from them is the best thing you can do to them. So please don't worry and you will be with them very soon. Until them use the means of technology to stay in touch with them, like voice calls, video calls and online meetings."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1590213501228",
+      "conditions": "#sad || #negative",
+      "dialog_node": "node_2_1590213631095",
+      "previous_sibling": "node_2_1590213613790"
+    },
+    {
+      "type": "standard",
+      "title": "HW_Away_Positive1",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Thank you for your service. We are proud of you !\nHave a great day and stay safe !"
+              },
+              {
+                "text": "You are a real hero ! Thank you for your service."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1590213501228",
+      "conditions": "#happy || #positive || #Thanks",
+      "dialog_node": "node_2_1590213613790"
+    },
+    {
+      "type": "standard",
+      "title": "home maker thanks",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "**You will be alright soon!**"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1590218117017",
+      "conditions": "#Thanks",
+      "dialog_node": "node_2_1590218885447"
+    },
+    {
+      "type": "standard",
+      "title": "student_sad",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "What's bothering you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1590154414866",
+      "conditions": "#sad",
+      "dialog_node": "node_6_1590165686580",
+      "previous_sibling": "node_8_1590154514919"
+    },
+    {
+      "type": "standard",
+      "title": "student_happy",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "That's nice to hear, So how can I help you ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1590154414866",
+      "conditions": "#happy",
+      "dialog_node": "node_8_1590154514919"
+    },
+    {
+      "type": "standard",
+      "title": "Home Maker Mood",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "How are you feeling today?"
+              },
+              {
+                "text": "How are you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_9_1590166325328",
+      "conditions": "#Home_Maker",
+      "dialog_node": "node_5_1590166972160"
+    },
+    {
+      "type": "standard",
+      "title": "BPerson_no_motive",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "OKAY!! It was nice talking to you...\nNever give up Today is hard Tomorrow is Worse but Day After tomorrow will be SUNSHINE\nSTAY POSITIVE\nSTAY SAFE\nSTAY STRONG"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1590218043758",
+      "conditions": "#negative",
+      "dialog_node": "node_1_1590228373420",
+      "previous_sibling": "node_9_1590226880949"
+    },
+    {
+      "type": "standard",
+      "title": "BPerson_motivation",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Maintaining good communication with your employees is the first and most important thing that you should look into. Since most of your employees would be now working remotely keeping up a constant communication will surely boost their motivation and help them concentrate more on their work. Don’t forget to cheer them up with instant appreciation."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1590218043758",
+      "conditions": "#BP_yes",
+      "dialog_node": "node_9_1590226880949"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not able to understand."
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "Welcome",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "User_Greet",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello. "
+              },
+              {
+                "text": "Hey!"
+              },
+              {
+                "text": "Hi !"
+              },
+              {
+                "text": "Welcome !"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1590173151364"
+      },
+      "conditions": "#greeting",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "Tranquil Skill",
+  "language": "en",
+  "description": ""
+}
